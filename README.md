@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Dashboard]([https://github.com/Hatem207/PowerBI-Business-Sales-Performance/blob/main/Business_Sales_Dashboard.png](https://github.com/Hatem207/Power-BI-Business-Sales-Performance/blob/main/Business%20Sales%20Dashboard.png))
+![Dashboard](https://github.com/Hatem207/Power-BI-Business-Sales-Performance/blob/main/Business%20Sales%20Dashboard.png)
 
 This Power BI dashboard provides a comprehensive analysis of business sales performance. It enables decision-makers to monitor revenue trends, evaluate product performance, analyze sales distribution, and gain valuable business insights through interactive dashboards and key performance indicators (KPIs).
 
